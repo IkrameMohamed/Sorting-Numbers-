@@ -2,20 +2,20 @@
 This project allows users to order a list of numbers in ascending or descending order using various sorting algorithms.  The project provides step-by-step visualization of the sorting process, making it easier for users to understand how each algorithm works.
 
 ## Features
--Order numbers in ascending or descending order.
--Choose from the following sorting algorithms:
-   *Bubble Sort.
-   *Selection Sort.
-   *Insertion Sort.
-   *Quick Sort.
-   *Merge Sort.
-   *Radix Sort.
--Choose from the following tree-based sorting methods:
-    * Heap Sort.
-    * Tree Sort.
-    * Binary Search Tree (BST) Sort.
--Step-by-step visualization of the sorting process.
--Display of the final sorted list.
+-Order numbers in ascending or descending order<br>
+-Choose from the following sorting algorithms: <br>
+   *Bubble Sort <br>
+   *Selection Sort <br>
+   *Insertion Sort <br>
+   *Quick Sort <br>
+   *Merge Sort <br>
+   *Radix Sort <br>
+-Choose from the following tree-based sorting methods: <br>
+    * Heap Sort <br>
+    * Tree Sort <br>
+    * Binary Search Tree (BST) Sort <br>
+-Step-by-step visualization of the sorting process <br>
+-Display of the final sorted list <br>
 -Display of the tree structure and sorting steps for tree-based sorting methods
 
 ## images 
